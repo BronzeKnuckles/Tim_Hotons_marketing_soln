@@ -51,22 +51,22 @@ This project offers invaluable insights for marketing strategies at Tim Hortons.
 ---
 ## Screen Shots: 
 PostgreSQL pgAdmin:
-![PGSQL](./pgadmn1.png)
+![PGSQL](./screenshots/pgadmn1.png)
 ---
 Firebase Firestore:
-![firestore](./firebase.png)
+![firestore](./screenshots/firebase.png)
 ---
 Page 1: 
-![Page 1](./pb2.png)
+![Page 1](./screenshots/pb2.png)
 Page 2:
-![Page 2](./pb4.png)
+![Page 2](./screenshots/pb4.png)
 Page 3:
-![Page 3](./pb5.png)
+![Page 3](./screenshots/pb5.png)
 Page 4:
-![Page 4](./pb3.png)
+![Page 4](./screenshots/pb3.png)
 ---
 ODBC Setup Windows for PowerBI: 
-![ODBC](./odbc1.png)
+![ODBC](./screenshots/odbc1.png)
 Power BI PgSQL Data Source:
-![PBDB](./pb1.png)
+![PBDB](./screenshots/pb1.png)
 ---
